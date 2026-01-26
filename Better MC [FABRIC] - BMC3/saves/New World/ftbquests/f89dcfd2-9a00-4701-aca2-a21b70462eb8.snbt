@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "f89dcfd29a004701aca2a21b70462eb8"
+	name: "exoflex6#f89dcfd2"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		11BEA03A82966C5B: 1
+	}
+	started: {
+		7CEC01561E744EFD: 1769383498263L
+		11BEA03A82966C5B: 1769383498263L
+		0000000000000001: 1769383498263L
+		51FE38DFB14D1D53: 1769383498263L
+	}
+	completed: {
+		7CEC01561E744EFD: 1769383498270L
+		11BEA03A82966C5B: 1769383498270L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
